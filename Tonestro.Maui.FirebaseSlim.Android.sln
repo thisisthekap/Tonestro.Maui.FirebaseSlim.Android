@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tonestro.Maui.FirebaseSlim.Android", "Tonestro.Maui.FirebaseSlim.Android\Tonestro.Maui.FirebaseSlim.Android.csproj", "{74992F89-905C-4A4D-9F0B-0BE65131C7D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tonestro.Maui.FirebaseSlim.Android.UsageChecker", "Tonestro.Maui.FirebaseSlim.Android.UsageChecker\Tonestro.Maui.FirebaseSlim.Android.UsageChecker.csproj", "{862EC1D7-9030-4DB5-8B25-362D15D095D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{74992F89-905C-4A4D-9F0B-0BE65131C7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74992F89-905C-4A4D-9F0B-0BE65131C7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74992F89-905C-4A4D-9F0B-0BE65131C7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862EC1D7-9030-4DB5-8B25-362D15D095D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862EC1D7-9030-4DB5-8B25-362D15D095D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862EC1D7-9030-4DB5-8B25-362D15D095D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862EC1D7-9030-4DB5-8B25-362D15D095D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
